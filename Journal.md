@@ -25,8 +25,26 @@ The left upright is a mirror image of the right upright that was shown first, ex
 The next part I designed was the top plate, which has mounting holes into the uprights and a standoff in the TPU front plate and TPU back plate. This ties the uprights together and is the main structure between the sides of the robot besides the weapon shaft.
 
 
+<img width="454" height="544" alt="image" src="https://github.com/user-attachments/assets/77b210d1-d737-4c5b-841f-b1d5ef1de474" />
 The first issue in my desing process occured when I realized that the aluminum inserts that prevent the holes for the weapon shaft in the frame rails from ovalling out would stick out past the frame rail on the other side. This is a simple remedy if you have access to a mill or lathe. All you need to do is face 0.094" off of the round side.
-<img width="879" height="712" alt="image" src="https://github.com/user-attachments/assets/497f0ec0-f624-4e6f-a71c-9e0a03fcad98" />
+
+
+<img width="1459" height="933" alt="image" src="https://github.com/user-attachments/assets/da41b9b6-95cc-41e8-823d-ab1a563785fc" />
+At this point I had most of the main frame laid out, and began to work on the weapon design.
+
+
+<img width="989" height="956" alt="image" src="https://github.com/user-attachments/assets/9e2e69df-8120-4abc-861f-dc2b153c07da" />
+This weapon design ties into the initial master sketches, which is where it gets its 4.25" effective diameter from. This weapon has an asymmetric design, increasing bite and optimizing energy transfer.
+
+
+<img width="974" height="1000" alt="image" src="https://github.com/user-attachments/assets/392b3cdf-2080-42e5-ab61-2aa487ff303e" />
+After cutting a rectangle through the middle of the part and filleting the corners, the initial design is mostly done.
+
+<img width="966" height="999" alt="image" src="https://github.com/user-attachments/assets/2530e1a9-afb2-4f78-9366-3939473af375" />
+I got the weapon design to this point, with a pocket for the motor and a guard around the outside of the motor when I realized a large problem with this design. There was not a good spot tot put a bearing on the motor side of the shaft that would provide sufficient support in combat. This led me to abandon this design and try a different style of hubmotor eggbeater where the whole side by the weapon motor is thicker so that a bearing can be put right next to the motor.
+
+<img width="752" height="982" alt="image" src="https://github.com/user-attachments/assets/f4b5d279-af78-4f6d-bbd4-e920bad60bde" />
+The revised weapon came out mostly similar to the initial one, except I made it a bit thinner along its thickness and thickened up the weapon motor side severely. This will also keep the weapon motor very safe in combat.
 
 11/26/2025
 
