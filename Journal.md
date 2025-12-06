@@ -1,6 +1,5 @@
-Total Hours: 20
-11/25/2025
-
+Total Hours: 24
+# 11/25/2025
 8 Hours
 
 Today I started the CAD for the robot. The plan going in was to maximize the size of the weapon while keeping everything as simple as possible. To accomplish this, I planned to use 3/8" UHMW frame rails, tangent drive, and an aluminum eggbeater driven by a custom hubmotor. The custom hubmotor eggbeater is the main focus of this project, as the rest of the robot is very generic and similar to many other four wheel drive eggbeaters.
@@ -75,8 +74,7 @@ The next part I designed was the front plate, which, for the most part, is a sim
 The back plate features a similar design philosophy as the front plate, but it is much thicker as it can be directly hit by opponents. It also has two mounting holes on either side and a pocket for the head of the drive shaft screw to sit in.
 
 
-11/26/2025
-
+# 11/26/2025
 12 Hours
 
 <img width="1240" height="881" alt="image" src="https://github.com/user-attachments/assets/21ce9a72-b03d-4421-9598-2d189860b5e2" />
@@ -103,13 +101,13 @@ After heavily pocketing the forks to save weight, the forks, and the rest of the
 
 <img width="1233" height="888" alt="image" src="https://github.com/user-attachments/assets/f054a2b7-f021-444f-a994-115f53cdd866" />
 
-12/3/25
-
+# 12/3/25
 1 Hour
 
 Updated journal and began the bill of materials.
 
-12/4/25
+# 12/5/25
+3 Hours
 
 Finished the bill of materials, made the wiring schematic, wrote the readme, and uploaded firmware and CAD files so that the project is now ready to ship.
 
