@@ -103,3 +103,13 @@ After heavily pocketing the forks to save weight, the forks, and the rest of the
 
 <img width="1233" height="888" alt="image" src="https://github.com/user-attachments/assets/f054a2b7-f021-444f-a994-115f53cdd866" />
 
+12/3/25
+
+1 Hour
+
+Updated journal and began the bill of materials.
+
+12/4/25
+
+Finished the bill of materials, made the wiring schematic, wrote the readme, and uploaded firmware and CAD files so that the project is now ready to ship.
+
